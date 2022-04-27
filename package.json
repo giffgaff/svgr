@@ -48,7 +48,7 @@
     "lodash": "^4.17.10",
     "mz": "^2.6.0",
     "output-file-sync": "^2.0.1",
-    "prettier": "^1.13.0",
+    "prettier": "^1.19.1",
     "recursive-readdir": "^2.2.2",
     "svgo": "^1.0.5"
   },
