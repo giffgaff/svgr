@@ -45,7 +45,7 @@
     "h2x-core": "^1.0.0",
     "h2x-plugin-jsx": "^1.0.0",
     "loader-utils": "^1.1.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "mz": "^2.6.0",
     "output-file-sync": "^2.0.1",
     "prettier": "^1.13.0",
