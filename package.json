@@ -49,7 +49,7 @@
     "mz": "^2.6.0",
     "output-file-sync": "^2.0.1",
     "prettier": "^1.13.0",
-    "recursive-readdir": "^2.2.2",
+    "recursive-readdir": "^2.2.3",
     "svgo": "^1.0.5"
   },
   "bin": {
