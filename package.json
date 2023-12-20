@@ -50,7 +50,7 @@
     "output-file-sync": "^2.0.1",
     "prettier": "^1.13.0",
     "recursive-readdir": "^2.2.2",
-    "svgo": "^1.0.5"
+    "svgo": "^2.0.0"
   },
   "bin": {
     "svgr": "./bin/svgr"
