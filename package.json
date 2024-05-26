@@ -41,7 +41,7 @@
     "@babel/preset-react": "^7.0.0-beta.49",
     "chalk": "^2.4.1",
     "commander": "^2.15.1",
-    "glob": "^7.1.2",
+    "glob": "^9.0.0",
     "h2x-core": "^1.0.0",
     "h2x-plugin-jsx": "^1.0.0",
     "loader-utils": "^1.1.0",
